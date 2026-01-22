@@ -15,4 +15,3 @@ Key Insights
 
 Tools Used
 Power BI | Data Visualization | DAX | Data Analysis
-
